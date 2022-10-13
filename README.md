@@ -6,6 +6,6 @@
 - 🔭 I’m currently working as a Sr. Backend Golang Developer!!
 - 🌱 I live in Canada
 - 👯 I’m looking to collaborate with other's on some cool open source projects in GoLang.
-- 🥅 2022 Goals: Contribute more to Open Source projects, attend to blockchain and NFT, and enhance my AWS/GCP Skills.
+- 🥅 2022 Goals: Contribute more to Open Source projects, attend to blockchain and NFT projects, and enhance my AWS/GCP Skills.
 
 if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
